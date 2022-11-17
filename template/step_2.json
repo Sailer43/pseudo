@@ -1,0 +1,194 @@
+{
+	"wallet": {
+		"address": "0x...",
+		"public_key": "ssh-rsa:...",
+		"etc.": "..."
+	},
+	"action": {
+		"type": "REQUEST_AUTH",
+		"post_time": 900000000,
+		"previous_token": {
+			"timestamp": 800000000,
+			"expiration": 8500000000,
+			"session": "...",
+			"unique_token": "...",
+			"tokens": [
+				{
+					"id": "auth0",
+					"issuer": {
+						"ipv4": "xxx.xxx.xxx.xxx:yyyy",
+						"mask": "xxx.xxx.xxx.xxx",
+						"ipv6": "xxxx:xxxx:xxxx:xxxx:xxxx:xxxx:xxxx",
+						"network_name": "xxxx",
+						"etc.": "..."
+					},
+					"jwt_token": "...",
+					"algorithm": "SHA256",
+					"issue_at": 790000000,
+					"etc.": "..."
+				},
+				{
+					"id": "auth1",
+					"issuer": {
+						"ipv4": "xxx.xxx.xxx.xxx:yyyy",
+						"mask": "xxx.xxx.xxx.xxx",
+						"ipv6": "xxxx:xxxx:xxxx:xxxx:xxxx:xxxx:xxxx",
+						"network_name": "xxxx",
+						"etc.": "..."
+					},
+					"jwt_token": "...",
+					"algorithm": "SHA256",
+					"issue_at": 790000000,
+					"etc.": "..."
+				},
+				{
+					"id": "auth2",
+					"issuer": {
+						"ipv4": "xxx.xxx.xxx.xxx:yyyy",
+						"mask": "xxx.xxx.xxx.xxx",
+						"ipv6": "xxxx:xxxx:xxxx:xxxx:xxxx:xxxx:xxxx",
+						"network_name": "xxxx",
+						"etc.": "..."
+					},
+					"jwt_token": "...",
+					"algorithm": "SHA256",
+					"issue_at": 790000000,
+					"etc.": "..."
+				},
+				{
+					"id": "auth3",
+					"issuer": {
+						"ipv4": "xxx.xxx.xxx.xxx:yyyy",
+						"mask": "xxx.xxx.xxx.xxx",
+						"ipv6": "xxxx:xxxx:xxxx:xxxx:xxxx:xxxx:xxxx",
+						"network_name": "xxxx",
+						"etc.": "..."
+					},
+					"jwt_token": "...",
+					"algorithm": "SHA256",
+					"issue_at": 790000000,
+					"etc.": "..."
+				},
+				{
+					"id": "auth4",
+					"issuer": {
+						"ipv4": "xxx.xxx.xxx.xxx:yyyy",
+						"mask": "xxx.xxx.xxx.xxx",
+						"ipv6": "xxxx:xxxx:xxxx:xxxx:xxxx:xxxx:xxxx",
+						"network_name": "xxxx",
+						"etc.": "..."
+					},
+					"jwt_token": "...",
+					"algorithm": "SHA256",
+					"issue_at": 790000000,
+					"etc.": "..."
+				},
+				{
+					"id": "auth5",
+					"issuer": {
+						"ipv4": "xxx.xxx.xxx.xxx:yyyy",
+						"mask": "xxx.xxx.xxx.xxx",
+						"ipv6": "xxxx:xxxx:xxxx:xxxx:xxxx:xxxx:xxxx",
+						"network_name": "xxxx",
+						"etc.": "..."
+					},
+					"jwt_token": "...",
+					"algorithm": "SHA256",
+					"issue_at": 790000000,
+					"etc.": "..."
+				},
+				{
+					"id": "auth6",
+					"issuer": {
+						"ipv4": "xxx.xxx.xxx.xxx:yyyy",
+						"mask": "xxx.xxx.xxx.xxx",
+						"ipv6": "xxxx:xxxx:xxxx:xxxx:xxxx:xxxx:xxxx",
+						"network_name": "xxxx",
+						"etc.": "..."
+					},
+					"jwt_token": "...",
+					"algorithm": "SHA256",
+					"issue_at": 790000000,
+					"etc.": "..."
+				},
+				{
+					"id": "auth7",
+					"issuer": {
+						"ipv4": "xxx.xxx.xxx.xxx:yyyy",
+						"mask": "xxx.xxx.xxx.xxx",
+						"ipv6": "xxxx:xxxx:xxxx:xxxx:xxxx:xxxx:xxxx",
+						"network_name": "xxxx",
+						"etc.": "..."
+					},
+					"jwt_token": "...",
+					"algorithm": "SHA256",
+					"issue_at": 790000000,
+					"etc.": "..."
+				},
+				{
+					"id": "auth8",
+					"issuer": {
+						"ipv4": "xxx.xxx.xxx.xxx:yyyy",
+						"mask": "xxx.xxx.xxx.xxx",
+						"ipv6": "xxxx:xxxx:xxxx:xxxx:xxxx:xxxx:xxxx",
+						"network_name": "xxxx",
+						"etc.": "..."
+					},
+					"jwt_token": "...",
+					"algorithm": "SHA256",
+					"issue_at": 790000000,
+					"etc.": "..."
+				},
+				{
+					"id": "auth9",
+					"issuer": {
+						"ipv4": "xxx.xxx.xxx.xxx:yyyy",
+						"mask": "xxx.xxx.xxx.xxx",
+						"ipv6": "xxxx:xxxx:xxxx:xxxx:xxxx:xxxx:xxxx",
+						"network_name": "xxxx",
+						"etc.": "..."
+					},
+					"jwt_token": "...",
+					"algorithm": "HS512",
+					"issue_at": 792000000,
+					"etc.": "..."
+				}
+			]
+		}
+	},
+	"network": {
+		"source": {
+			"ipv4": "xxx.xxx.xxx.xxx:yyyy",
+			"mask": "xxx.xxx.xxx.xxx",
+			"ipv6": "xxxx:xxxx:xxxx:xxxx:xxxx:xxxx:xxxx",
+			"etc.": "..."
+		},
+		"peers": [
+			{
+				"id": "peer_1",
+				"ipv4": "xxx.xxx.xxx.xxx:yyyy",
+				"mask": "xxx.xxx.xxx.xxx",
+				"ipv6": "xxxx:xxxx:xxxx:xxxx:xxxx:xxxx:xxxx",
+				"network_name": "xxxx",
+				"etc.": "..."
+			},
+			{
+				"id": "peer_2",
+				"ipv4": "xxx.xxx.xxx.xxx:yyyy",
+				"mask": "xxx.xxx.xxx.xxx",
+				"ipv6": "xxxx:xxxx:xxxx:xxxx:xxxx:xxxx:xxxx",
+				"network_name": "xxxx",
+				"etc.": "..."
+			},
+			{
+				"id": "peer_3",
+				"ipv4": "xxx.xxx.xxx.xxx:yyyy",
+				"mask": "xxx.xxx.xxx.xxx",
+				"ipv6": "xxxx:xxxx:xxxx:xxxx:xxxx:xxxx:xxxx",
+				"network_name": "xxxx",
+				"etc.": "..."
+			}
+		]
+	},
+	"checksum": 1234567890
+}
